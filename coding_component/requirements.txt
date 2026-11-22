@@ -1,0 +1,20 @@
+# Dependency inventory for the EEG notebooks and local audiovisual demo.
+# This is not a lockfile for the original research environment.
+# Use a separate environment for the legacy Qwen-VL / GPTQ notebook.
+gradio
+requests
+torch
+torchaudio
+torchvision
+transformers
+pillow
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+mne
+pyriemann
+jupyterlab
