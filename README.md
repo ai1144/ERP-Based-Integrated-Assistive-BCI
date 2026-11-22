@@ -11,7 +11,7 @@ The Gradio demo simulates an ERP event with a button press. EEG classification r
 
 ## Interface preview
 
-[![Historical Gradio interface after a simulated ERP event, showing a dashboard image, an audio waveform and the generated textual response.](assets/interface-preview.png)](assets/interface-preview.png)
+[![Historical Gradio interface after a simulated ERP event, showing a dashboard image, an audio waveform and the generated textual response.](interface-preview.png)](interface-preview.png)
 
 *The original prototype, shown in the thesis (Figure 8). The server-configuration row has been cropped out to remove the saved tunnel address. Select the image to view it at full resolution.*
 
